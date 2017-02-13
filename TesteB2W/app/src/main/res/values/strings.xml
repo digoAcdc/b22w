@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">a Lojinha</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="txt_a_lojinha">a Lojinha</string>
+    <string name="txt_nm_desenvolvedor">Rodrigo Silveira Barbosa</string>
+    <string name="txt_dt_desenvolvimeno">12 de fevereiro de 2017</string>
+    <string name="txt_categorias">Categorias</string>
+    <string name="txt_mais_vendidos">Mais vendidos</string>
+</resources>

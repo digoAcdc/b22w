@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mn_home"
+            android:icon="@mipmap/home_menu"
+            android:title="Home" />
+        <item
+            android:id="@+id/mn_sobre"
+            android:icon="@mipmap/tag_menu"
+            android:title="Sobre o dispositivo" />
+    </group>
+
+</menu>
